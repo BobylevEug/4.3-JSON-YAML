@@ -1,6 +1,7 @@
 # 4.3.-JSON-YAML
 
 ## 1.
+``` python
 { "info" : "Sample JSON output from our service\t",
     "elements" :[
         { "name" : "first",
@@ -13,6 +14,7 @@
         }
     ]
 }
+```
 ## 2.
 ```python
 #!/usr/bin/env python3
